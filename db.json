@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"first_name":"Common goldeneye","category":"Orange"},
+{"id":2,"first_name":"Southern white-crowned shrike","category":"Turquoise"},
+{"id":3,"first_name":"Rhinoceros, black","category":"Teal"},
+{"id":4,"first_name":"European shelduck","category":"Orange"},
+{"id":5,"first_name":"Coqui partridge","category":"Red"},
+{"id":6,"first_name":"Genoveva","category":"Crimson"},
+{"id":7,"first_name":"Comb duck","category":"Maroon"},
+{"id":8,"first_name":"Beaver, eurasian","category":"Puce"},
+{"id":9,"first_name":"Dark-winged trumpeter","category":"Goldenrod"},
+{"id":10,"first_name":"Great skua","category":"Red"},
+{"id":11,"first_name":"Gull, pacific","category":"Turquoise"},
+{"id":12,"first_name":"Python, carpet","category":"Red"},
+{"id":13,"first_name":"Hen, sage","category":"Green"},
+{"id":14,"first_name":"Greater adjutant stork","category":"Indigo"},
+{"id":15,"first_name":"Bleu, blue-breasted cordon","category":"Pink"},
+{"id":16,"first_name":"Common palm civet","category":"Red"},
+{"id":17,"first_name":"Monkey, bleeding heart","category":"Goldenrod"},
+{"id":18,"first_name":"Stick insect","category":"Indigo"},
+{"id":19,"first_name":"Ibis, sacred","category":"Indigo"},
+{"id":20,"first_name":"Madagascar hawk owl","category":"Puce"}
+]
+}
